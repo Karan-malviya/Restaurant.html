@@ -37,7 +37,7 @@
             border: none;
             margin-bottom: 25px;
         }
-
+  
         legend {
             font-weight: 700;
             color: #2c3e50;
@@ -117,7 +117,7 @@
 <form class="feedback-form" action="#" method="POST">
     
     <div class="form-header">
-        <h2>🍽️ Food Feedback</h2>
+        <h2>🍽️. Food Feedback</h2>
         <p>Help us improve our kitchen by sharing your experience.</p>
     </div>
 
